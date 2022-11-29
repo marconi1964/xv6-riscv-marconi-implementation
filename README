@@ -1,3 +1,8 @@
+This branch, though called 'xv6 RISC-V', is cloned from github of [xv6 x86 version](https://github.com/mit-pdos/xv6-public), not from [xv6 RISC-V version]
+(https://github.com/mit-pdos/xv6-riscv.git). The intention is for myself to re-write my own version of xv6 RISC-V implementation based on x86 version. Hope this will give me a full understanding of the xv6 system through hands-on implementation.
+
+Below is the original post of xv6 x86 version README.
+
 NOTE: we have stopped maintaining the x86 version of xv6, and switched
 our efforts to the RISC-V version
 (https://github.com/mit-pdos/xv6-riscv.git)
